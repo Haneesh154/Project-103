@@ -1,0 +1,20 @@
+.heading{
+    width: 80%;
+    font-size: 25px;
+    
+}
+
+body{
+    color: blueviolet;
+    background: coral;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.objects,#object_name_result,#object_accuracy_result{
+    color: yellow;
+}
